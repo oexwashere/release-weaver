@@ -1,0 +1,4 @@
+abcdef1 feat(editor): add keyboard shortcuts
+abcdef2 fix(storage): recover from malformed state
+abcdef3 feat(api)!: rename configuration keys
+abcdef4 docs: explain migration
